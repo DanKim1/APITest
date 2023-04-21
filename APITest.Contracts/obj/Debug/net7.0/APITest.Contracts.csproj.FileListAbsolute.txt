@@ -1,0 +1,12 @@
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\bin\Debug\net7.0\APITest.Contracts.deps.json
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\bin\Debug\net7.0\APITest.Contracts.dll
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\bin\Debug\net7.0\APITest.Contracts.pdb
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\APITest.Contracts.csproj.AssemblyReference.cache
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\APITest.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\APITest.Contracts.AssemblyInfoInputs.cache
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\APITest.Contracts.AssemblyInfo.cs
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\APITest.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\APITest.Contracts.dll
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\refint\APITest.Contracts.dll
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\APITest.Contracts.pdb
+C:\Users\Daniel Kim\Desktop\APITest\APITest.Contracts\obj\Debug\net7.0\ref\APITest.Contracts.dll
