@@ -1,4 +1,4 @@
-@id=00000000-0000-0000-0000-000000000000
+@id=45789d07-876f-4a1e-94a6-c01046cd1f78
 
 Get http://localhost:5051/breakfasts/{{id}}
 Content-Type: application/json
