@@ -8,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 var app = builder.Build();
 {
+    app.UseExceptionHandler("/error"); //Adds Try/Catch Middleware, defaults request to /error route on exception
+
     app.UseHttpsRedirection();
 
     app.MapControllers();

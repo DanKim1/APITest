@@ -30,3 +30,4 @@ C:\Users\Daniel Kim\Desktop\APITest\APITest\obj\Debug\net7.0\refint\APITest.dll
 C:\Users\Daniel Kim\Desktop\APITest\APITest\obj\Debug\net7.0\APITest.pdb
 C:\Users\Daniel Kim\Desktop\APITest\APITest\obj\Debug\net7.0\APITest.genruntimeconfig.cache
 C:\Users\Daniel Kim\Desktop\APITest\APITest\obj\Debug\net7.0\ref\APITest.dll
+C:\Users\Daniel Kim\Desktop\APITest\APITest\bin\Debug\net7.0\ErrorOr.dll

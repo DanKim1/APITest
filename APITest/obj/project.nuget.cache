@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VTBZf5xUK4i/PMrGk7II/zSKUkOqadWoB7rTpITiFI/vWTFgT5DLvdIYTLbPhGZslxS9pba2zDrNKP8hDLFrrA==",
+  "dgSpecHash": "y8eHUDosu8Dl+WWZbKythy5KiTuq7LBR2rZe4yrwyj3YYfb7hQ5GXbdI9AFefixWsVGLmmkiGvIlPWsvwzRdWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel Kim\\Desktop\\APITest\\APITest\\APITest.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Daniel Kim\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\Daniel Kim\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\Daniel Kim\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
   ],
